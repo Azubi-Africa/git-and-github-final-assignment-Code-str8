@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  wordcount-project             |  Python program that reads a file and counts the number of occurrences of specific words in the text             | https://github.com/Code-str8/wordcount-project      |
+| 2 |  Body-Mass-Index-Calculator             |  A simple program that takes the user's height and weight and calculates their BMI.             | https://github.com/Code-str8/Body-Mass-Index-Calculator      |
+| 3 |   Frankfurter_API_data             |  Retrieving data from API , normalizing the data ( df ) and visualizing the data             | https://github.com/Code-str8/Frankfurter_API_data       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
